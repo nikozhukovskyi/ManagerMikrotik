@@ -3,7 +3,7 @@ import time
 import json
 
 # Токен бота
-TELEGRAM_BOT_TOKEN = '7582759423:AAF2BtSlpRTkaWMKMDJKwlB_jhVLTBSGGOc'
+TELEGRAM_BOT_TOKEN = 'TOKEN'
 
 
 # Функція для отримання оновлень
