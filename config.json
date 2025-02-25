@@ -1,0 +1,18 @@
+{
+  "mikrotiks": [
+    {
+      "name": "test0",
+      "host": "192.168.0.154",
+      "user": "admin",
+      "password": "root"
+    }
+  ],
+  "ftp": {
+    "host": "",
+    "user": "",
+    "password": "",
+    "dir": "/"
+  },
+  "telegram_token": ""
+
+}
