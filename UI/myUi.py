@@ -391,7 +391,7 @@ class BackupWorker(QThread):
             with pyodbc.connect(self.conn_str, timeout=30) as conn:
                 cursor = conn.cursor()
                 cursor.execute("""
-                    UPDATE [UserAuthDB].[dbo].[MikroTikDevices] 
+                    UPDATE [ManagerMikrotik].[dbo].[MikroTikDevices] 
                     SET backup_status = ?, backup_status_final = ?, installed_version = installed_version, 
                         latest_version = latest_version, routerboard_firmware = routerboard_firmware
                     WHERE id = ?
@@ -451,7 +451,7 @@ class CheckUpdatesWorker(QThread):
             with pyodbc.connect(self.conn_str, timeout=30) as conn:
                 cursor = conn.cursor()
                 cursor.execute("""
-                    UPDATE [UserAuthDB].[dbo].[MikroTikDevices] 
+                    UPDATE [ManagerMikrotik].[dbo].[MikroTikDevices] 
                     SET installed_version = ?, latest_version = ?, routerboard_firmware = ?, backup_status_final = backup_status_final
                     WHERE id = ?
                 """, installed_version, latest_version, routerboard_firmware, device_id)
@@ -464,7 +464,7 @@ class CheckUpdatesWorker(QThread):
             with pyodbc.connect(self.conn_str, timeout=30) as conn:
                 cursor = conn.cursor()
                 cursor.execute("""
-                    UPDATE [UserAuthDB].[dbo].[MikroTikDevices] 
+                    UPDATE [ManagerMikrotik].[dbo].[MikroTikDevices] 
                     SET backup_status = ?, backup_status_final = ?, installed_version = installed_version, 
                         latest_version = latest_version, routerboard_firmware = routerboard_firmware
                     WHERE id = ?
@@ -572,7 +572,7 @@ class UpgradeWorker(QThread):
             with pyodbc.connect(self.conn_str, timeout=30) as conn:
                 cursor = conn.cursor()
                 cursor.execute("""
-                    UPDATE [UserAuthDB].[dbo].[MikroTikDevices] 
+                    UPDATE [ManagerMikrotik].[dbo].[MikroTikDevices] 
                     SET backup_status = ?, backup_status_final = ?, installed_version = installed_version, 
                         latest_version = latest_version, routerboard_firmware = routerboard_firmware
                     WHERE id = ?
@@ -605,7 +605,7 @@ class ChatIdWorker(QThread):
                     for update in updates["result"]:
                         chat_id = update['message']['from']['id']
                         try:
-                            cursor.execute("INSERT INTO [UserAuthDB].[dbo].[TelegramChatIds] ([chat_id]) VALUES (?)",
+                            cursor.execute("INSERT INTO [ManagerMikrotik].[dbo].[TelegramChatIds] ([chat_id]) VALUES (?)",
                                            chat_id)
                             conn.commit()
                             self.update_signal.emit(f"Додано chat_id: {chat_id}")
@@ -726,7 +726,7 @@ class RouterBoardWorker(QThread):
             with pyodbc.connect(self.conn_str, timeout=30) as conn:
                 cursor = conn.cursor()
                 cursor.execute("""
-                    UPDATE [UserAuthDB].[dbo].[MikroTikDevices] 
+                    UPDATE [ManagerMikrotik].[dbo].[MikroTikDevices] 
                     SET backup_status = ?, backup_status_final = ?, installed_version = installed_version, 
                         latest_version = latest_version, routerboard_firmware = routerboard_firmware
                     WHERE id = ?
@@ -1097,7 +1097,7 @@ class MainWindow(QMainWindow):
             with pyodbc.connect(self.conn_str, timeout=30) as conn:
                 cursor = conn.cursor()
                 # Завантажуємо Telegram токен
-                cursor.execute("SELECT TOP 1 [token] FROM [UserAuthDB].[dbo].[TelegramSettings]")
+                cursor.execute("SELECT TOP 1 [token] FROM [ManagerMikrotik].[dbo].[TelegramSettings]")
                 row = cursor.fetchone()
                 if row:
                     self.telegram_token = row.token
@@ -1106,7 +1106,7 @@ class MainWindow(QMainWindow):
 
                 # Завантажуємо FTP налаштування
                 cursor.execute(
-                    "SELECT TOP 1 [host], [username], [password], [dir] FROM [UserAuthDB].[dbo].[FTPSettings]")
+                    "SELECT TOP 1 [host], [username], [password], [dir] FROM [ManagerMikrotik].[dbo].[FTPSettings]")
                 row = cursor.fetchone()
                 if row:
                     self.ftp_config = {
@@ -1119,7 +1119,7 @@ class MainWindow(QMainWindow):
                     self.log_text.append("Не знайдено FTP налаштування у базі даних!")
 
                 # Завантажуємо chat_ids
-                cursor.execute("SELECT [chat_id] FROM [UserAuthDB].[dbo].[TelegramChatIds]")
+                cursor.execute("SELECT [chat_id] FROM [ManagerMikrotik].[dbo].[TelegramChatIds]")
                 CHAT_IDS.clear()
                 chat_ids = [str(row.chat_id) for row in cursor.fetchall()]
                 CHAT_IDS.extend(chat_ids)
@@ -1138,7 +1138,7 @@ class MainWindow(QMainWindow):
                 cursor.execute("""
                     SELECT [id], [name], [host], [username], [password], [installed_version], [latest_version], 
                            [backup_status], [backup_status_final], [routerboard_firmware] 
-                    FROM [UserAuthDB].[dbo].[MikroTikDevices]
+                    FROM [ManagerMikrotik].[dbo].[MikroTikDevices]
                 """)
                 rows = cursor.fetchall()
 
@@ -1218,7 +1218,7 @@ class MainWindow(QMainWindow):
             with pyodbc.connect(self.conn_str, timeout=30) as conn:
                 cursor = conn.cursor()
                 cursor.execute("""
-                    UPDATE [UserAuthDB].[dbo].[MikroTikDevices] 
+                    UPDATE [ManagerMikrotik].[dbo].[MikroTikDevices] 
                     SET installed_version = ?, latest_version = ?, routerboard_firmware = ?, backup_status_final = backup_status_final
                     WHERE id = ?
                 """, installed_version, latest_version, routerboard_firmware, device_id)
@@ -1234,7 +1234,7 @@ class MainWindow(QMainWindow):
             with pyodbc.connect(self.conn_str, timeout=30) as conn:
                 cursor = conn.cursor()
                 cursor.execute("""
-                    UPDATE [UserAuthDB].[dbo].[MikroTikDevices] 
+                    UPDATE [ManagerMikrotik].[dbo].[MikroTikDevices] 
                     SET backup_status = ?, backup_status_final = ?, installed_version = installed_version, 
                         latest_version = latest_version, routerboard_firmware = routerboard_firmware
                     WHERE id = ?
