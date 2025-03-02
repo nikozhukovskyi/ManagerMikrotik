@@ -63,7 +63,7 @@ GO
 
 -- Дані для [FTPSettings]
 INSERT INTO [dbo].[FTPSettings] ([host], [username], [password], [dir])
-VALUES ('ftp.kryjivka.com.ua', '', '', '/');
+VALUES ('ftp.com', '', '', '/');
 GO
 
 -- Дані для [TelegramChatIds]
