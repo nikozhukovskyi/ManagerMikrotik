@@ -1,0 +1,329 @@
+2025-03-04 00:46:37,058 - INFO - Found 0 schedules to execute
+2025-03-04 00:51:37,072 - INFO - Found 0 schedules to execute
+2025-03-04 00:52:29,728 - INFO - QSS file successfully loaded.
+2025-03-04 00:52:29,776 - INFO - Found version patches to be applied.
+2025-03-04 00:52:29,776 - INFO - Found application patches to be applied.
+2025-03-04 00:56:37,087 - INFO - Found 0 schedules to execute
+2025-03-04 01:00:10,926 - INFO - QSS file successfully loaded.
+2025-03-04 01:00:10,969 - INFO - Found version patches to be applied.
+2025-03-04 01:00:10,970 - INFO - Found application patches to be applied.
+2025-03-04 01:01:12,483 - INFO - \u0412\u0438\u0434\u0430\u043b\u0435\u043d\u043e \u0437\u0430\u043b\u0435\u0436\u043d\u0456 \u0440\u043e\u0437\u043a\u043b\u0430\u0434\u0438 \u0434\u043b\u044f device_ids: 39, 40, 41, 42, 43
+2025-03-04 01:01:12,490 - INFO - \u0417\u043c\u0456\u043d\u0438 \u0432 \u0431\u0430\u0437\u0456 \u0434\u0430\u043d\u0438\u0445 \u043f\u0440\u0438\u0441\u0442\u0440\u043e\u0457\u0432 \u0437\u0431\u0435\u0440\u0435\u0436\u0435\u043d\u043e
+2025-03-04 01:01:13,937 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:01:13,949 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:01:13,984 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:01:14,241 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:01:14,241 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:01:15,306 - INFO - Authentication (password) successful!
+2025-03-04 01:01:15,341 - INFO - Authentication (password) successful!
+2025-03-04 01:01:15,422 - INFO - Authentication (password) successful!
+2025-03-04 01:01:15,427 - INFO - Authentication (password) failed.
+2025-03-04 01:01:15,467 - INFO - Authentication (password) successful!
+2025-03-04 01:01:37,099 - INFO - Found 0 schedules to execute
+2025-03-04 01:02:08,414 - INFO - \u041f\u0440\u0438\u0441\u0442\u0440\u0456\u0439 \u0432\u0438\u0434\u0430\u043b\u0435\u043d\u043e \u0437 \u0442\u0430\u0431\u043b\u0438\u0446\u0456 (\u0440\u044f\u0434\u043e\u043a 5)
+2025-03-04 01:02:09,562 - INFO - \u0412\u0438\u0434\u0430\u043b\u0435\u043d\u043e \u0437\u0430\u043b\u0435\u0436\u043d\u0456 \u0440\u043e\u0437\u043a\u043b\u0430\u0434\u0438 \u0434\u043b\u044f device_ids: 44, 45, 46, 47, 48
+2025-03-04 01:02:09,568 - INFO - \u0417\u043c\u0456\u043d\u0438 \u0432 \u0431\u0430\u0437\u0456 \u0434\u0430\u043d\u0438\u0445 \u043f\u0440\u0438\u0441\u0442\u0440\u043e\u0457\u0432 \u0437\u0431\u0435\u0440\u0435\u0436\u0435\u043d\u043e
+2025-03-04 01:02:10,937 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:02:10,950 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:02:10,986 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:02:11,479 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:02:11,553 - INFO - Authentication (password) successful!
+2025-03-04 01:02:12,083 - INFO - Authentication (password) successful!
+2025-03-04 01:02:12,149 - INFO - Authentication (password) successful!
+2025-03-04 01:02:12,187 - INFO - Authentication (password) successful!
+2025-03-04 01:02:47,171 - INFO - \u0412\u0438\u0434\u0430\u043b\u0435\u043d\u043e \u0437\u0430\u043b\u0435\u0436\u043d\u0456 \u0440\u043e\u0437\u043a\u043b\u0430\u0434\u0438 \u0434\u043b\u044f device_ids: 49, 50, 51, 52, 53
+2025-03-04 01:02:47,179 - INFO - \u0417\u043c\u0456\u043d\u0438 \u0432 \u0431\u0430\u0437\u0456 \u0434\u0430\u043d\u0438\u0445 \u043f\u0440\u0438\u0441\u0442\u0440\u043e\u0457\u0432 \u0437\u0431\u0435\u0440\u0435\u0436\u0435\u043d\u043e
+2025-03-04 01:02:48,466 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:02:48,485 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:02:48,516 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:02:48,765 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:02:49,589 - INFO - Authentication (password) successful!
+2025-03-04 01:02:49,639 - INFO - Authentication (password) successful!
+2025-03-04 01:02:49,679 - INFO - Authentication (password) successful!
+2025-03-04 01:02:49,719 - INFO - Authentication (password) successful!
+2025-03-04 01:03:57,621 - INFO - \u0412\u0438\u0434\u0430\u043b\u0435\u043d\u043e \u0437\u0430\u043b\u0435\u0436\u043d\u0456 \u0440\u043e\u0437\u043a\u043b\u0430\u0434\u0438 \u0434\u043b\u044f device_ids: 54, 55, 56, 57, 58
+2025-03-04 01:03:57,626 - INFO - \u0417\u043c\u0456\u043d\u0438 \u0432 \u0431\u0430\u0437\u0456 \u0434\u0430\u043d\u0438\u0445 \u043f\u0440\u0438\u0441\u0442\u0440\u043e\u0457\u0432 \u0437\u0431\u0435\u0440\u0435\u0436\u0435\u043d\u043e
+2025-03-04 01:03:59,297 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:03:59,312 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:03:59,347 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:03:59,596 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:03:59,598 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:04:00,664 - INFO - Authentication (password) successful!
+2025-03-04 01:04:00,700 - INFO - Authentication (password) successful!
+2025-03-04 01:04:00,782 - INFO - Authentication (password) successful!
+2025-03-04 01:04:00,820 - INFO - Authentication (password) successful!
+2025-03-04 01:04:00,856 - INFO - Authentication (password) successful!
+2025-03-04 01:06:37,113 - INFO - Found 0 schedules to execute
+2025-03-04 01:11:37,127 - INFO - Found 0 schedules to execute
+2025-03-04 01:12:25,834 - INFO - QSS file successfully loaded.
+2025-03-04 01:12:25,878 - INFO - Found version patches to be applied.
+2025-03-04 01:12:25,878 - INFO - Found application patches to be applied.
+2025-03-04 01:16:37,141 - INFO - Found 0 schedules to execute
+2025-03-04 01:17:46,141 - INFO - QSS file successfully loaded.
+2025-03-04 01:17:46,182 - INFO - Found version patches to be applied.
+2025-03-04 01:17:46,182 - INFO - Found application patches to be applied.
+2025-03-04 01:18:22,651 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:18:23,041 - INFO - Authentication (password) successful!
+2025-03-04 01:18:23,358 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:18:23,755 - INFO - Authentication (password) successful!
+2025-03-04 01:18:29,893 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:18:30,283 - INFO - Authentication (password) successful!
+2025-03-04 01:18:30,335 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-03-04 01:18:34,606 - INFO - [chan 0] sftp session closed.
+2025-03-04 01:18:35,962 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:18:36,365 - INFO - Authentication (password) successful!
+2025-03-04 01:21:37,154 - INFO - Found 0 schedules to execute
+2025-03-04 01:22:29,427 - INFO - QSS file successfully loaded.
+2025-03-04 01:22:29,463 - INFO - Found version patches to be applied.
+2025-03-04 01:22:29,464 - INFO - Found application patches to be applied.
+2025-03-04 01:26:37,167 - INFO - Found 0 schedules to execute
+2025-03-04 01:31:37,180 - INFO - Found 0 schedules to execute
+2025-03-04 01:33:28,459 - INFO - QSS file successfully loaded.
+2025-03-04 01:33:28,500 - INFO - Found version patches to be applied.
+2025-03-04 01:33:28,500 - INFO - Found application patches to be applied.
+2025-03-04 01:33:42,403 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:33:42,787 - INFO - Authentication (password) successful!
+2025-03-04 01:33:47,792 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:33:48,192 - INFO - Authentication (password) successful!
+2025-03-04 01:33:53,135 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:33:53,533 - INFO - Authentication (password) successful!
+2025-03-04 01:33:58,470 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:33:58,864 - INFO - Authentication (password) successful!
+2025-03-04 01:34:03,783 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:34:04,185 - INFO - Authentication (password) successful!
+2025-03-04 01:34:22,079 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:34:22,464 - INFO - Authentication (password) successful!
+2025-03-04 01:34:22,780 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:34:23,187 - INFO - Authentication (password) successful!
+2025-03-04 01:34:29,348 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:34:29,742 - INFO - Authentication (password) successful!
+2025-03-04 01:34:29,793 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-03-04 01:34:34,069 - INFO - [chan 0] sftp session closed.
+2025-03-04 01:34:35,391 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:34:35,783 - INFO - Authentication (password) successful!
+2025-03-04 01:34:39,912 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:34:40,292 - INFO - Authentication (password) successful!
+2025-03-04 01:34:40,625 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:34:41,006 - INFO - Authentication (password) successful!
+2025-03-04 01:34:46,716 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:34:47,113 - INFO - Authentication (password) successful!
+2025-03-04 01:34:47,165 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-03-04 01:34:51,442 - INFO - [chan 0] sftp session closed.
+2025-03-04 01:34:52,774 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:34:53,157 - INFO - Authentication (password) successful!
+2025-03-04 01:34:56,981 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:34:57,374 - INFO - Authentication (password) successful!
+2025-03-04 01:34:57,696 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:34:58,096 - INFO - Authentication (password) successful!
+2025-03-04 01:35:03,797 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:35:04,184 - INFO - Authentication (password) successful!
+2025-03-04 01:35:04,234 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-03-04 01:35:08,520 - INFO - [chan 0] sftp session closed.
+2025-03-04 01:35:09,811 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:35:10,204 - INFO - Authentication (password) successful!
+2025-03-04 01:35:14,045 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:35:14,439 - INFO - Authentication (password) successful!
+2025-03-04 01:35:14,752 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:35:15,143 - INFO - Authentication (password) successful!
+2025-03-04 01:35:20,944 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:35:21,330 - INFO - Authentication (password) successful!
+2025-03-04 01:35:21,382 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-03-04 01:35:25,888 - INFO - [chan 0] sftp session closed.
+2025-03-04 01:35:27,186 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:35:27,582 - INFO - Authentication (password) successful!
+2025-03-04 01:35:31,666 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:35:32,059 - INFO - Authentication (password) successful!
+2025-03-04 01:35:32,372 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:35:32,763 - INFO - Authentication (password) successful!
+2025-03-04 01:35:38,459 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:35:38,847 - INFO - Authentication (password) successful!
+2025-03-04 01:35:38,898 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-03-04 01:35:43,167 - INFO - [chan 0] sftp session closed.
+2025-03-04 01:35:44,469 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:35:44,860 - INFO - Authentication (password) successful!
+2025-03-04 01:36:37,193 - INFO - Found 0 schedules to execute
+2025-03-04 01:36:56,421 - INFO - \u0423\u0441\u0456 \u043f\u0440\u0438\u0441\u0442\u0440\u043e\u0457 \u0432\u0438\u0431\u0440\u0430\u043d\u043e
+2025-03-04 01:36:58,987 - INFO - \u0423\u0441\u0456 \u043f\u0440\u0438\u0441\u0442\u0440\u043e\u0457 \u0437\u043d\u044f\u0442\u043e
+2025-03-04 01:41:37,207 - INFO - Found 0 schedules to execute
+2025-03-04 01:43:46,881 - INFO - QSS file successfully loaded.
+2025-03-04 01:43:46,925 - INFO - Found version patches to be applied.
+2025-03-04 01:43:46,926 - INFO - Found application patches to be applied.
+2025-03-04 01:46:37,221 - INFO - Found 0 schedules to execute
+2025-03-04 01:47:11,879 - INFO - QSS file successfully loaded.
+2025-03-04 01:47:11,916 - INFO - Found version patches to be applied.
+2025-03-04 01:47:11,916 - INFO - Found application patches to be applied.
+2025-03-04 01:51:37,232 - INFO - Found 0 schedules to execute
+2025-03-04 01:56:37,245 - INFO - Found 0 schedules to execute
+2025-03-04 01:56:55,731 - INFO - QSS file successfully loaded.
+2025-03-04 01:56:55,776 - INFO - Found version patches to be applied.
+2025-03-04 01:56:55,776 - INFO - Found application patches to be applied.
+2025-03-04 01:57:08,590 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:57:08,987 - INFO - Authentication (password) successful!
+2025-03-04 01:57:10,398 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:57:10,795 - INFO - Authentication (password) successful!
+2025-03-04 01:57:22,163 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:57:22,553 - INFO - Authentication (password) successful!
+2025-03-04 01:57:23,962 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 01:57:24,351 - INFO - Authentication (password) successful!
+2025-03-04 02:01:37,260 - INFO - Found 0 schedules to execute
+2025-03-04 02:03:01,541 - INFO - QSS file successfully loaded.
+2025-03-04 02:03:01,579 - INFO - Found version patches to be applied.
+2025-03-04 02:03:01,579 - INFO - Found application patches to be applied.
+2025-03-04 02:03:11,924 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 02:03:12,313 - INFO - Authentication (password) successful!
+2025-03-04 02:03:13,743 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 02:03:14,142 - INFO - Authentication (password) successful!
+2025-03-04 02:06:37,274 - INFO - Found 0 schedules to execute
+2025-03-04 02:06:42,086 - INFO - QSS file successfully loaded.
+2025-03-04 02:06:42,123 - INFO - Found version patches to be applied.
+2025-03-04 02:06:42,123 - INFO - Found application patches to be applied.
+2025-03-04 02:06:53,225 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 02:06:53,610 - INFO - Authentication (password) successful!
+2025-03-04 02:06:55,027 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 02:06:55,425 - INFO - Authentication (password) successful!
+2025-03-04 02:11:00,766 - INFO - QSS file successfully loaded.
+2025-03-04 02:11:00,809 - INFO - Found version patches to be applied.
+2025-03-04 02:11:00,810 - INFO - Found application patches to be applied.
+2025-03-04 02:11:12,732 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 02:11:13,117 - INFO - Authentication (password) successful!
+2025-03-04 02:11:14,527 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 02:11:14,921 - INFO - Authentication (password) successful!
+2025-03-04 02:11:37,286 - INFO - Found 0 schedules to execute
+2025-03-04 02:14:12,952 - INFO - QSS file successfully loaded.
+2025-03-04 02:14:12,998 - INFO - Found version patches to be applied.
+2025-03-04 02:14:12,998 - INFO - Found application patches to be applied.
+2025-03-04 02:14:29,636 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 02:14:30,029 - INFO - Authentication (password) successful!
+2025-03-04 02:14:31,446 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 02:14:31,849 - INFO - Authentication (password) successful!
+2025-03-04 02:14:36,621 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 02:14:37,010 - INFO - Authentication (password) successful!
+2025-03-04 02:14:38,422 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 02:14:38,820 - INFO - Authentication (password) successful!
+2025-03-04 02:15:00,101 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 02:15:00,489 - INFO - Authentication (password) successful!
+2025-03-04 02:15:05,478 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 02:15:05,887 - INFO - Authentication (password) successful!
+2025-03-04 02:15:27,515 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 02:15:27,911 - INFO - Authentication (password) successful!
+2025-03-04 02:15:29,324 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 02:15:29,730 - INFO - Authentication (password) successful!
+2025-03-04 02:16:37,296 - INFO - Found 0 schedules to execute
+2025-03-04 02:17:49,042 - INFO - QSS file successfully loaded.
+2025-03-04 02:17:49,085 - INFO - Found version patches to be applied.
+2025-03-04 02:17:49,086 - INFO - Found application patches to be applied.
+2025-03-04 02:19:30,041 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 02:19:30,423 - INFO - Authentication (password) successful!
+2025-03-04 02:19:34,033 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 02:19:34,428 - INFO - Authentication (password) successful!
+2025-03-04 02:19:37,948 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 02:19:38,365 - INFO - Authentication (password) successful!
+2025-03-04 02:19:41,873 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 02:19:42,270 - INFO - Authentication (password) successful!
+2025-03-04 02:19:45,768 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 02:19:46,146 - INFO - Authentication (password) successful!
+2025-03-04 02:21:37,308 - INFO - Found 0 schedules to execute
+2025-03-04 02:22:35,876 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 02:22:36,259 - INFO - Authentication (password) successful!
+2025-03-04 02:26:37,322 - INFO - Found 0 schedules to execute
+2025-03-04 02:31:37,333 - INFO - Found 0 schedules to execute
+2025-03-04 02:35:11,590 - INFO - QSS file successfully loaded.
+2025-03-04 02:35:11,619 - INFO - Found version patches to be applied.
+2025-03-04 02:35:11,619 - INFO - Found application patches to be applied.
+2025-03-04 02:35:18,361 - INFO - \u0423\u0441\u043f\u0456\u0448\u043d\u0435 \u0437'\u0454\u0434\u043d\u0430\u043d\u043d\u044f \u0437 \u0431\u0430\u0437\u043e\u044e: localhost/ManagerMikrotik
+2025-03-04 02:35:23,315 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 02:35:24,031 - INFO - Authentication (password) successful!
+2025-03-04 02:35:25,469 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 02:35:25,861 - INFO - Authentication (password) successful!
+2025-03-04 02:36:37,341 - INFO - Found 0 schedules to execute
+2025-03-04 02:37:24,033 - INFO - QSS file successfully loaded.
+2025-03-04 02:37:24,061 - INFO - Found version patches to be applied.
+2025-03-04 02:37:24,061 - INFO - Found application patches to be applied.
+2025-03-04 02:37:36,638 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 02:37:37,355 - INFO - Authentication (password) successful!
+2025-03-04 02:37:39,135 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 02:37:39,516 - INFO - Authentication (password) successful!
+2025-03-04 02:37:54,808 - INFO - QSS file successfully loaded.
+2025-03-04 02:37:54,834 - INFO - Found version patches to be applied.
+2025-03-04 02:37:54,834 - INFO - Found application patches to be applied.
+2025-03-04 02:38:50,038 - INFO - QSS file successfully loaded.
+2025-03-04 02:38:50,068 - INFO - Found version patches to be applied.
+2025-03-04 02:38:50,068 - INFO - Found application patches to be applied.
+2025-03-04 02:39:01,794 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 02:39:02,452 - INFO - Authentication (password) successful!
+2025-03-04 02:39:04,273 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 02:39:04,907 - INFO - Authentication (password) successful!
+2025-03-04 02:41:37,352 - INFO - Found 0 schedules to execute
+2025-03-04 02:42:39,053 - INFO - QSS file successfully loaded.
+2025-03-04 02:42:39,081 - INFO - Found version patches to be applied.
+2025-03-04 02:42:39,082 - INFO - Found application patches to be applied.
+2025-03-04 02:42:50,903 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 02:42:51,517 - INFO - Authentication (password) successful!
+2025-03-04 02:42:53,197 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 02:42:53,574 - INFO - Authentication (password) successful!
+2025-03-04 02:42:59,989 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 02:43:00,528 - INFO - Authentication (password) successful!
+2025-03-04 02:43:02,579 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 02:43:03,107 - INFO - Authentication (password) successful!
+2025-03-04 02:43:24,472 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 02:43:25,014 - INFO - Authentication (password) successful!
+2025-03-04 02:43:29,304 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 02:43:29,918 - INFO - Authentication (password) successful!
+2025-03-04 02:43:33,840 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 02:43:34,425 - INFO - Authentication (password) successful!
+2025-03-04 02:43:38,724 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 02:43:39,243 - INFO - Authentication (password) successful!
+2025-03-04 02:43:43,024 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 02:43:43,639 - INFO - Authentication (password) successful!
+2025-03-04 02:44:49,333 - INFO - \u041d\u043e\u0432\u0438\u0439 \u043a\u043b\u044e\u0447 \u0456 \u0437\u0430\u0448\u0438\u0444\u0440\u043e\u0432\u0430\u043d\u0456 \u043f\u0430\u0440\u043e\u043b\u0456 \u0437\u0430\u043f\u0438\u0441\u0430\u043d\u043e \u0432 config.ini
+2025-03-04 02:46:37,365 - INFO - Found 0 schedules to execute
+2025-03-04 02:48:42,804 - INFO - QSS file successfully loaded.
+2025-03-04 02:48:42,856 - INFO - Found version patches to be applied.
+2025-03-04 02:48:42,856 - INFO - Found application patches to be applied.
+2025-03-04 02:51:11,741 - INFO - QSS file successfully loaded.
+2025-03-04 02:51:11,827 - INFO - Found version patches to be applied.
+2025-03-04 02:51:11,827 - INFO - Found application patches to be applied.
+2025-03-04 02:51:37,425 - INFO - Found 0 schedules to execute
+2025-03-04 02:56:37,443 - INFO - Found 0 schedules to execute
+2025-03-04 02:58:55,892 - INFO - QSS file successfully loaded.
+2025-03-04 02:58:55,918 - INFO - Found version patches to be applied.
+2025-03-04 02:58:55,919 - INFO - Found application patches to be applied.
+2025-03-04 02:59:42,822 - INFO - QSS file successfully loaded.
+2025-03-04 02:59:42,849 - INFO - Found version patches to be applied.
+2025-03-04 02:59:42,849 - INFO - Found application patches to be applied.
+2025-03-04 03:00:41,330 - INFO - QSS file successfully loaded.
+2025-03-04 03:00:41,359 - INFO - Found version patches to be applied.
+2025-03-04 03:00:41,359 - INFO - Found application patches to be applied.
+2025-03-04 03:01:14,663 - INFO - QSS file successfully loaded.
+2025-03-04 03:01:14,691 - INFO - Found version patches to be applied.
+2025-03-04 03:01:14,692 - INFO - Found application patches to be applied.
+2025-03-04 03:01:37,456 - INFO - Found 0 schedules to execute
+2025-03-04 03:01:37,745 - INFO - QSS file successfully loaded.
+2025-03-04 03:01:37,790 - INFO - Found version patches to be applied.
+2025-03-04 03:01:37,790 - INFO - Found application patches to be applied.
+2025-03-04 03:06:37,469 - INFO - Found 0 schedules to execute
+2025-03-04 03:11:37,482 - INFO - Found 0 schedules to execute
+2025-03-04 03:16:37,497 - INFO - Found 0 schedules to execute
+2025-03-04 03:21:37,508 - INFO - Found 0 schedules to execute
+2025-03-04 03:26:37,522 - INFO - Found 0 schedules to execute
+2025-03-04 03:31:37,536 - INFO - Found 0 schedules to execute
+2025-03-04 03:36:37,548 - INFO - Found 0 schedules to execute
+2025-03-04 03:41:37,562 - INFO - Found 0 schedules to execute
+2025-03-04 03:46:37,574 - INFO - Found 0 schedules to execute
+2025-03-04 03:51:37,588 - INFO - Found 0 schedules to execute
+2025-03-04 03:56:37,600 - INFO - Found 1 schedules to execute
+2025-03-04 03:56:37,610 - INFO - Executing task \u0411\u0435\u043a\u0430\u043f for device MikrotikOffice
+2025-03-04 03:56:37,672 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 03:56:38,058 - INFO - Authentication (password) successful!
+2025-03-04 03:56:45,216 - INFO - \u0411\u0435\u043a\u0430\u043f MikrotikOffice-Backup-20250304-0356 \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u043e \u0434\u043b\u044f 10.100.96.122
+2025-03-04 03:56:45,250 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 03:56:45,643 - INFO - Authentication (password) successful!
+2025-03-04 03:56:45,696 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-03-04 03:56:49,975 - INFO - [chan 0] sftp session closed.
+2025-03-04 03:56:49,986 - INFO - \u0411\u0435\u043a\u0430\u043f MikrotikOffice-Backup-20250304-0356 \u0437\u0430\u0432\u0430\u043d\u0442\u0430\u0436\u0435\u043d\u043e \u0434\u043b\u044f 10.100.96.122
+2025-03-04 03:56:50,701 - INFO - \u0411\u0435\u043a\u0430\u043f MikrotikOffice-Backup-20250304-0356.backup \u0437\u0430\u0432\u0430\u043d\u0442\u0430\u0436\u0435\u043d\u043e \u043d\u0430 FTP
+2025-03-04 03:56:51,286 - INFO - \u0411\u0435\u043a\u0430\u043f MikrotikOffice-Backup-20250304-0356.rsc \u0437\u0430\u0432\u0430\u043d\u0442\u0430\u0436\u0435\u043d\u043e \u043d\u0430 FTP
+2025-03-04 03:56:51,319 - INFO - Connected (version 2.0, client ROSSSH)
+2025-03-04 03:56:51,699 - INFO - Authentication (password) successful!
+2025-03-04 03:56:52,073 - INFO - \U0001f539 Backup for MikrotikOffice completed successfully: MikrotikOffice-Backup-20250304-0356
+2025-03-04 03:56:53,545 - INFO - Schedule 27 deleted (one-time)
